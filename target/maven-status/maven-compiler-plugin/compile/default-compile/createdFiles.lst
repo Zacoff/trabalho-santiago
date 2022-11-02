@@ -1,0 +1,15 @@
+br\com\dbc\vemser\todoapi\repository\ToDoRepository.class
+br\com\dbc\vemser\todoapi\exception\CustomGlobalExceptionHandler.class
+br\com\dbc\vemser\todoapi\exception\RegraDeNegocioException.class
+br\com\dbc\vemser\todoapi\config\SimpleErrorDecode.class
+br\com\dbc\vemser\todoapi\config\FeignConfig.class
+br\com\dbc\vemser\todoapi\exception\BancoDeDadosException.class
+br\com\dbc\vemser\todoapi\ToDoApiApplication.class
+br\com\dbc\vemser\todoapi\dto\ToDoUpdateDTO.class
+br\com\dbc\vemser\todoapi\entity\Done.class
+br\com\dbc\vemser\todoapi\entity\ToDo.class
+br\com\dbc\vemser\todoapi\dto\ToDoDTO.class
+br\com\dbc\vemser\todoapi\controller\ToDoController.class
+br\com\dbc\vemser\todoapi\service\ToDoService.class
+com\dbc\pessoaapi\config\OpenApiConfig.class
+br\com\dbc\vemser\todoapi\dto\ToDoCreateDTO.class
