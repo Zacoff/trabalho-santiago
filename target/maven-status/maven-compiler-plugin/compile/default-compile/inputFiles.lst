@@ -2,6 +2,7 @@ C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\db
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\exception\RegraDeNegocioException.java
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\repository\ToDoRepository.java
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\service\ToDoService.java
+C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\dto\ToDoStatusDTO.java
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\exception\CustomGlobalExceptionHandler.java
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\dto\ToDoDTO.java
 C:\Users\danie\Downloads\java-todolist-api-main\todo-api\src\main\java\br\com\dbc\vemser\todoapi\config\OpenApiConfig.java

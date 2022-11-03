@@ -2,6 +2,7 @@ br\com\dbc\vemser\todoapi\repository\ToDoRepository.class
 br\com\dbc\vemser\todoapi\exception\CustomGlobalExceptionHandler.class
 br\com\dbc\vemser\todoapi\exception\RegraDeNegocioException.class
 br\com\dbc\vemser\todoapi\config\SimpleErrorDecode.class
+br\com\dbc\vemser\todoapi\dto\ToDoStatusDTO.class
 br\com\dbc\vemser\todoapi\config\FeignConfig.class
 br\com\dbc\vemser\todoapi\exception\BancoDeDadosException.class
 br\com\dbc\vemser\todoapi\ToDoApiApplication.class
